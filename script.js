@@ -13,5 +13,3 @@ function save(){
     count = 0;
     countEl.textContent = count;
 }
-
-// document.getElementById('count-el').innerText()
